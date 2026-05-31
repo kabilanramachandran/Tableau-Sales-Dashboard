@@ -56,7 +56,7 @@ Management requires a dashboard to monitor sales performance, compare products, 
 
 ### Dashboard Overview
 
-![Dashboard](dashboard.png)
+![Dashboard](tableau_dashboard.png)
 
 ## Author
 
